@@ -23,7 +23,7 @@ App Service和App Client可以是同一个应用！（即发送数据，也可�
 RSMB Service下载地址：[RSMB下载](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=d5bedadd-e46f-4c97-af89-22d65ffee070)
  [RSMB服务搭建说明](http://blog.sina.com.cn/s/blog_6c762bb30101bkfp.html)
 
-Push Service 使用
-API服务器
-TestPush: 基于MQTT的android客户端
-API服务器：php开发
+Push Service下载地址：[基于php的PushService](https://github.com/bluerhinos/phpMQTT)
+
+基于Android的App Client：代码如上TestPush工程
+基于java的App Service/Client实例：[ia92.zip](http://www-01.ibm.com/support/docview.wss?uid=swg24006006)
