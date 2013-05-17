@@ -1,11 +1,12 @@
-»ùÓÚMQTTµÄandroidÍÆËÍ·þÎñ
+åŸºäºŽMQTTçš„androidæŽ¨é€æœåŠ¡
 ===
-´î½¨»ùÓÚMQTTµÄÍÆËÍ·þÎñÐèÒª£º
-1. API·þÎñÆ÷£¨ÓÃÓÚ·¢ËÍÐèÒªÍÆËÍµÄÐÅÏ¢£©
+æ­å»ºåŸºäºŽMQTTçš„æŽ¨é€æœåŠ¡éœ€è¦ï¼š
 
-2. RSMB·þÎñÆ÷£¨ÓÃÓÚÊµÏÖÍÆËÍ·þÎñ£©
+1. APIæœåŠ¡å™¨ï¼ˆç”¨äºŽå‘é€éœ€è¦æŽ¨é€çš„ä¿¡æ¯ï¼‰
 
-![ÕâÊÇÒ»¸öÍÆËÍÔ­ÀíÍ¼Æ¬](http://img.my.csdn.net/uploads/201208/23/1345699153_6792.png)
-API·þÎñÆ÷
-TestPush: »ùÓÚMQTTµÄandroid¿Í»§¶Ë
-API·þÎñÆ÷£ºphp¿ª·¢
+2. RSMBæœåŠ¡å™¨ï¼ˆç”¨äºŽå®žçŽ°æŽ¨é€æœåŠ¡ï¼‰
+
+![è¿™æ˜¯ä¸€ä¸ªæŽ¨é€åŽŸç†å›¾ç‰‡](http://img.my.csdn.net/uploads/201208/23/1345699153_6792.png)
+APIæœåŠ¡å™¨
+TestPush: åŸºäºŽMQTTçš„androidå®¢æˆ·ç«¯
+APIæœåŠ¡å™¨ï¼šphpå¼€å‘
