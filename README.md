@@ -20,6 +20,8 @@ App Service和App Client可以是同一个应用！（即发送数据，也可�
 
 详细
 ===
+RSMB Service下载地址：[RSMB下载](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=d5bedadd-e46f-4c97-af89-22d65ffee070)
+
 
 API服务器
 TestPush: 基于MQTT的android客户端
